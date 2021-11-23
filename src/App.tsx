@@ -34,6 +34,7 @@ const App = () => {
           }, timeOut);
         }}
         onClick={()  => raiseScore()}
+        alt="file"
         />
       </div>
 
